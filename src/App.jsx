@@ -1,6 +1,6 @@
 import React from 'react'
 import List from './component/List'
-import Card from './component/card'
+import Card from './component/Card'
 
 const App = () => {
   return (
